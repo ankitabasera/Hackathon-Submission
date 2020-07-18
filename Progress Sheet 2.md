@@ -4,7 +4,7 @@
 
   - Designed a Navbar and sidebar
   - Designed new logo
-  - Leared and used Bootstrap 
+  - Learned and used Bootstrap 
  
 # Techstacks
    - HTML
